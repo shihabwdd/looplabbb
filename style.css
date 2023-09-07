@@ -1,0 +1,142 @@
+body {
+    background: #333;
+    color: #fff;
+}
+
+#home-section{
+   background: url('img/home.jpg') no-repeat center fixed;   
+   background-size: cover;
+   background-attachment: fixed;
+   min-height: 700px;
+}
+nav{
+opacity: 0.7;
+}
+.overlay{
+    background: rgb(0,0,0,0.7);
+    min-height: 700px;
+}
+.build-social-row{
+    padding-top: 100px;
+}
+#chik_1_ico{
+    background: white;
+    color: #008ed6;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 4px;
+    margin-top: 6px;
+}
+.form-group{
+margin-bottom: 1rem;
+}
+#chik_2_ico{
+    background: #333;
+    color: #fff;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 4px;
+    margin-top: 6px; 
+}
+.t {
+    color: #F4BA0E;
+    text-decoration: none;
+}
+.t:hover{
+    color: #F4BA0E;
+    text-decoration: none;
+}
+You sent
+Asfaqul Haque
+Asfaqul Haque Shihab
+.icon{
+    color: #008ed6;
+    background-color: #fff;
+    font-size: 30px;
+    padding: 4px;
+    padding-top: 6px;
+    border-radius: 5px;
+}
+
+
+
+.home_section{
+
+    background: url(home.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.overlay{
+    background: rgb(0,0,0,0.7);
+}
+
+.home_section_padding{
+    padding-top: 150px;
+}
+.bg-primary{
+    background-color:  #007bff !important;
+}
+
+nav{
+    opacity: 0.7;
+	background: #373d3f;
+	border-bottom:3px solid #008ed6;
+}
+
+.explore_section{
+    background: #333;
+}
+
+.explore_section_btn{
+    background: #333333;
+	color: #fff;
+	border-radius: 5px;
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border: 1px solid #fff;
+    margin-bottom: 50px;
+    transition: 0.5s;
+}
+.explore_section_btn:hover{
+    background-color: #fff;
+    color: #333;
+}
+
+.explore_learn_title{
+    font-size: 30px;
+}
+
+.icon_explore_learn{
+    color: #ffffff;
+    background-color:#333333;
+    font-size: 30px;
+    padding: 4px;
+    padding-top: 6px;
+    border-radius: 5px;
+}
+
+.explore_create_btn{
+    background: none;
+	color: #fff;
+	border-radius: 5px;
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border: 1px solid #fff;
+    margin-bottom: 50px;
+    transition: 0.5s;
+}
+
+.explore_create_btn:hover{
+    background-color: #fff;
+    color: #000000;
+}
+
+.Create_Your_Passion{
+    background-color: #333;
+    color: #ffff;
+}
